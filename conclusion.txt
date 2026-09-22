@@ -1,0 +1,13 @@
+La Experiencia de Usuario (UX) determina el éxito de un producto digital al enfocarse en las percepciones y emociones de la persona que interactúa con el sistema, conectando las metas del proyecto con las necesidades reales del público.
+
+Para que funcione, es crucial diferenciar la UX de la Interfaz de Usuario (UI), ya que mientras la UI se encarga de la estética visual, la UX define la estrategia global y el recorrido interno para asegurar una interacción fluida.
+
+Este proceso se sostiene sobre dos pilares esenciales: la usabilidad para completar tareas eficientemente y la accesibilidad para garantizar que la plataforma sea inclusiva para personas con diferentes capacidades.
+
+Un error común es priorizar la estética bajo la falsa creencia de que la belleza visual equivale a un buen funcionamiento, lo que genera altas tasas de abandono, malas reseñas y pérdidas económicas cuando la aplicación es confusa.
+
+En conclusión, el diseño de UX debe ser una disciplina estratégica basada en investigación real y no en suposiciones, permitiendo que el usuario logre sus metas de forma rápida y placentera.
+
+
+
+
